@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GUIcantina.Properties
+namespace GUICantina.Properties
 {
 
 
